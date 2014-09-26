@@ -1,9 +1,6 @@
 # Cash burn rates at startups
 
-Cash burn rates at startups: Recently [@bgurley](https://twitter.com/bgurley) and [@fredwilson](https://twitter.com/fredwilson) have sounded a vivid alarm:
-* http://online.wsj.com/articles/venture-capitalist-sounds-alarm-on-silicon-valley-risk-1410740054 
-* http://avc.com/2014/09/burn-baby-burn/
-
+Recently [Bill Gurley](https://twitter.com/bgurley) and [Fred Wilson](https://twitter.com/fredwilson) have sounded a vivid alarm[^1].
 
 I [said at the time](https://twitter.com/pmarca/status/511617992757506048) that I agree with much of what Bill says, and I want to expand on the topic further:
 
@@ -24,3 +21,5 @@ Further, to get into this position, you probably had to raise too much $ at too 
 Finally, there are exceptions to all this. But if you're reading this, you're almost certainly not one. They are few and far between.
 
 **Worry.**
+
+[^1]: http://online.wsj.com/articles/venture-capitalist-sounds-alarm-on-silicon-valley-risk-1410740054 http://avc.com/2014/09/burn-baby-burn/
