@@ -1,5 +1,7 @@
 # Cash burn rates at startups
 
+*Published on Twitter, [25 Sep 2014](https://twitter.com/pmarca/status/515216011277398016).*
+
 Recently [Bill Gurley](https://twitter.com/bgurley) and [Fred Wilson](https://twitter.com/fredwilson) have sounded a vivid alarm[^1].
 
 I [said at the time](https://twitter.com/pmarca/status/511617992757506048) that I agree with much of what Bill says, and I want to expand on the topic further.
