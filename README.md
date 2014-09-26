@@ -1,7 +1,7 @@
 Notes from Marc Andreessen tweetstorms
 ============
 
-This content is available as a ebook on GitBook, [readable online](http://samypesse.gitbooks.io/pmarca-notes/), or downloadable: [ePub](https://www.gitbook.io/download/epub/book/samypesse/pmarca-notes), [Mobi](https://www.gitbook.io/download/mobi/book/samypesse/pmarca-notes) or [PDF](https://www.gitbook.io/download/pdf/book/samypesse/pmarca-notes)
+This content is available as an ebook (thanks to [GitBook](https://www.gitbook.io)), [readable online](http://samypesse.gitbooks.io/pmarca-notes/), or downloadable: [ePub](https://www.gitbook.io/download/epub/book/samypesse/pmarca-notes), [Mobi](https://www.gitbook.io/download/mobi/book/samypesse/pmarca-notes) or [PDF](https://www.gitbook.io/download/pdf/book/samypesse/pmarca-notes)
 
 ### List of Tweetstorms:
 
