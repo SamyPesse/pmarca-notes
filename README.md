@@ -5,11 +5,11 @@ This content is available as a ebook on GitBook, [readable online](http://samype
 
 ### List of Tweetstorms:
 
-* [Burn Rates, *25 Sep 2014*](burnrates.md)
-* [Movie Theaters, *August 31, 2014*](movietheaters.md)
-* [CEOs, *August 24, 2014*](ceos.md)
-* [Timing of Ideas, *August 21, 2014*](ideastiming.md)
-* [Big Problems, *August 19, 2014*](bigproblems.md)
+* [Burn Rates, *25 Sep 2014*](storms/burnrates.md)
+* [Movie Theaters, *August 31, 2014*](storms/movietheaters.md)
+* [CEOs, *August 24, 2014*](storms/ceos.md)
+* [Timing of Ideas, *August 21, 2014*](storms/ideastiming.md)
+* [Big Problems, *August 19, 2014*](storms/bigproblems.md)
 
 ### Who is Marc Andreessen?
 
