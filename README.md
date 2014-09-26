@@ -9,6 +9,7 @@ This content is available as a ebook on GitBook, [readable online](http://samype
 * [Movie Theaters, *August 31, 2014*](movietheaters.md)
 * [CEOs, *August 24, 2014*](ceos.md)
 * [Timing of Ideas, *August 21, 2014*](ideastiming.md)
+* [Big Problems, *August 19, 2014*](bigproblems.md)
 
 ### Who is Marc Andreessen?
 
