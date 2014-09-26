@@ -11,6 +11,7 @@ This content is available as a ebook on GitBook, [readable online](http://samype
 * [Timing of Ideas, *August 21, 2014*](storms/ideastiming.md)
 * [Big Problems, *August 19, 2014*](storms/bigproblems.md)
 * [Buzzfeed, *August 10, 2014*](storms/buzzfeed.md)
+* [Journalism, *August 10, 2014*](storms/journalism.md)
 
 ### Who is Marc Andreessen?
 

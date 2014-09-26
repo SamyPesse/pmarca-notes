@@ -6,3 +6,4 @@
 * [Timing of Ideas](storms/ideastiming.md)
 * [Big Problems](storms/bigproblems.md)
 * [Buzzfeed](storms/buzzfeed.md)
+* [Journalism](storms/journalism.md)
