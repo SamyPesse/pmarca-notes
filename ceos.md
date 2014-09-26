@@ -1,5 +1,7 @@
 # The truly great tech CEOs
 
+*Published on Twitter, [August 24, 2014](https://twitter.com/pmarca/status/503667307269222400)*
+
 In tech, we talk about difference between **technical-founder/CEO** (product/eng background) vs **professional CEO** (sales/marketing background).
 
 Our general theory is: Easier to teach product innovator how to manage, than it is to teach sales/marketing operator how to innovate.
@@ -20,5 +22,5 @@ To succeed at scale, each needs to learn the other skills & hire people who have
 
 Ultimately = team-building for both paths. But dynamic different & differently challenging in each direction; requires open discussion.
 
-Addendum: The Why = the mission. Ideally beyond just "the company's success". Increasingly important for all paths.
-Addendum: The truly great tech CEOs have mastered all of these: What, Who, How, Where, & When... and Why.
+**Addendum:** The Why = the mission. Ideally beyond just "the company's success". Increasingly important for all paths.
+**Addendum:** The truly great tech CEOs have mastered all of these: What, Who, How, Where, & When... and Why.
