@@ -3,8 +3,14 @@ Notes from Marc Andreessen tweetstorms
 
 ### Who is Marc Andreessen?
 
-Marc Lowell Andreessen (born July 9, 1971) is an American entrepreneur, investor, and software engineer. He is best known as coauthor of Mosaic, the first widely used Web browser; as cofounder of Netscape Communications Corporation; and as cofounder and general partner of Silicon Valley venture capital firm Andreessen Horowitz.
-He founded and later sold the software company Opsware to Hewlett-Packard. Andreessen is also a cofounder of Ning, a company that provides a platform for social networking websites. An innovator and creator, he is one of the few people who has pioneered a software category (Web browsers) used by more than a billion people and established several billion-dollar companies. He sits on the board of directors of Facebook, eBay, and HP, among others. A frequent keynote speaker and guest at Silicon Valley conferences, Andreessen is one of only six inductees in the World Wide Web Hall of Fame announced at the first international conference on the World Wide Web in 1994.
+Marc Lowell Andreessen (born July 9, 1971) is an American entrepreneur, investor, and software engineer.
+
+He is best known as coauthor of Mosaic, the first widely used Web browser; as cofounder of Netscape Communications Corporation; and as cofounder and general partner of Silicon Valley venture capital firm Andreessen Horowitz.
+He founded and later sold the software company Opsware to Hewlett-Packard. Andreessen is also a cofounder of Ning, a company that provides a platform for social networking websites.
+
+An innovator and creator, he is one of the few people who has pioneered a software category (Web browsers) used by more than a billion people and established several billion-dollar companies. He sits on the board of directors of Facebook, eBay, and HP, among others.
+
+A frequent keynote speaker and guest at Silicon Valley conferences, Andreessen is one of only six inductees in the World Wide Web Hall of Fame announced at the first international conference on the World Wide Web in 1994.
 
 *Source: [Wikipedia](http://en.wikipedia.org/wiki/Marc_Andreessen)*
 
