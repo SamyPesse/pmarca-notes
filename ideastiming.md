@@ -23,10 +23,10 @@ Which is often why more pragmatic founders end up building the big & important c
 * *Fifth*, therefore, most of the great ideas for the next two decades are already known. In labs, in failed startups, in big companies prototypes.
 Those ideas are being dismissed now since the early attempts have't worked. This has the opposite predictive value vs what people think.
 
-Quoting [William Gibson](https://www.twitter.com/GreatDismal]:
+Quoting [William Gibson](https://www.twitter.com/GreatDismal):
 
 > The future is already here, it's just not evenly distributed
 
 Or it's not yet distributed at all. But it is here.
 
-The key question is: What ideas are widely dismissed today due to having been tried & failed? Answer is the codex to the next 20 years.
+The key question is: **What ideas are widely dismissed today due to having been tried & failed?** Answer is the codex to the next 20 years.
