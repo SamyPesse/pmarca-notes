@@ -2,7 +2,7 @@
 
 *Published on Twitter, [August 31, 2014](https://twitter.com/pmarca/status/506208594971222016)*
 
-Next generation movie theaters could be so much better, charge a premium & dominate financially (like [http://en.wikipedia.org/wiki/ArcLight_Hollywood](ArcLight Hollywood))...
+Next generation movie theaters could be so much better, charge a premium & dominate financially (like [ArcLight Hollywood](http://en.wikipedia.org/wiki/ArcLight_Hollywood))...
 
 **Convenience:**
 * Reserved seating
