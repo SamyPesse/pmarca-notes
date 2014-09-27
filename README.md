@@ -16,6 +16,7 @@ This content is available as an ebook (thanks to [GitBook](https://www.gitbook.i
 * [Joel Mokyr, *August 10, 2014*](storms/mokyr.md)
 * [Watergate, *August 10, 2014*](storms/watergate.md)
 * [Financial Regulation, *August 7, 2014*](storms/financialregulation.md)
+* [Lyft Line, *August 7, 2014*](storms/lyftline.md)
 
 ### Who is Marc Andreessen?
 
