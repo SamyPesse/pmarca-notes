@@ -5,6 +5,7 @@ This content is available as an ebook (thanks to [GitBook](https://www.gitbook.i
 
 ### List of Tweetstorms:
 
+* [Challenge of VCs, *26 Sep 2014*](storms/vcchallenge.md)
 * [Burn Rates, *25 Sep 2014*](storms/burnrates.md)
 * [Movie Theaters, *August 31, 2014*](storms/movietheaters.md)
 * [CEOs, *August 24, 2014*](storms/ceos.md)

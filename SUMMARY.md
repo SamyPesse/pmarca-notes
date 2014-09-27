@@ -1,5 +1,6 @@
 # Summary
 
+* [Challenge of VCs](storms/vcchallenge.md)
 * [Burn Rates](storms/burnrates.md)
 * [Movie Theaters](storms/movietheaters.md)
 * [CEOs](storms/ceos.md)
