@@ -9,3 +9,4 @@
 * [Journalism](storms/journalism.md)
 * [Joel Mokyr](storms/mokyr.md)
 * [Watergate](storms/watergate.md)
+* [Financial Regulation](storms/financialregulation.md)
