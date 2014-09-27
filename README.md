@@ -13,6 +13,7 @@ This content is available as an ebook (thanks to [GitBook](https://www.gitbook.i
 * [Buzzfeed, *August 10, 2014*](storms/buzzfeed.md)
 * [Journalism, *August 10, 2014*](storms/journalism.md)
 * [Joel Mokyr, *August 10, 2014*](storms/mokyr.md)
+* [Watergate, *August 10, 2014*](storms/watergate.md)
 
 ### Who is Marc Andreessen?
 
