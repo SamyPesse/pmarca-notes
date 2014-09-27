@@ -2,7 +2,7 @@
 
 *Published on Twitter, [August 7, 2014](https://twitter.com/pmarca/status/497147166406606848)*
 
-We[^1] are very excited about the launch of [Lyft Line](https://www.lyft.com/)[^2], and I want to explain why!
+We [^1] are very excited about the launch of [Lyft Line](https://www.lyft.com/) [^2], and I want to explain why!
 
 Lyft and Lyft Line are an archetypal example of how Silicon Valley is going straight at the hard problems, in this case transportation.
 A growing number of people know about the amazing consumer utility and convenience created by "a ride on demand whenever you want".
