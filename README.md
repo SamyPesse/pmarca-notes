@@ -1,22 +1,7 @@
 Notes from Marc Andreessen tweetstorms
 ============
 
-This content is available as an ebook (thanks to [GitBook](https://www.gitbook.io)), [readable online](http://samypesse.gitbooks.io/pmarca-notes/), or downloadable: [ePub](https://www.gitbook.io/download/epub/book/samypesse/pmarca-notes), [Mobi](https://www.gitbook.io/download/mobi/book/samypesse/pmarca-notes) or [PDF](https://www.gitbook.io/download/pdf/book/samypesse/pmarca-notes)
-
-### List of Tweetstorms:
-
-* [Challenge of VCs, *26 Sep 2014*](storms/vcchallenge.md)
-* [Burn Rates, *25 Sep 2014*](storms/burnrates.md)
-* [Movie Theaters, *August 31, 2014*](storms/movietheaters.md)
-* [CEOs, *August 24, 2014*](storms/ceos.md)
-* [Timing of Ideas, *August 21, 2014*](storms/ideastiming.md)
-* [Big Problems, *August 19, 2014*](storms/bigproblems.md)
-* [Buzzfeed, *August 10, 2014*](storms/buzzfeed.md)
-* [Journalism, *August 10, 2014*](storms/journalism.md)
-* [Joel Mokyr, *August 10, 2014*](storms/mokyr.md)
-* [Watergate, *August 10, 2014*](storms/watergate.md)
-* [Financial Regulation, *August 7, 2014*](storms/financialregulation.md)
-* [Lyft Line, *August 7, 2014*](storms/lyftline.md)
+This content is available as an ebook (thanks to [GitBook](https://www.gitbook.com)), [readable online](https://www.gitbook.com/book/samypesse/pmarca-notes), or downloadable: [ePub](https://www.gitbook.com/download/epub/book/samypesse/pmarca-notes), [Mobi](https://www.gitbook.com/download/mobi/book/samypesse/pmarca-notes) or [PDF](https://www.gitbook.com/download/pdf/book/samypesse/pmarca-notes)
 
 ### Who is Marc Andreessen?
 
