@@ -1,7 +1,9 @@
 Notes from Marc Andreessen tweetstorms
 ============
 
-This content is available as an ebook (thanks to [GitBook](https://www.gitbook.com)), [readable online](https://www.gitbook.com/book/samypesse/pmarca-notes), or downloadable: [ePub](https://www.gitbook.com/download/epub/book/samypesse/pmarca-notes), [Mobi](https://www.gitbook.com/download/mobi/book/samypesse/pmarca-notes) or [PDF](https://www.gitbook.com/download/pdf/book/samypesse/pmarca-notes)
+This book is a collection of essays from Marc Andreessen published on his personal Twitter account ([@pmarca](https://twitter.com/pmarca)).
+
+This content is available as an ebook (thanks to [GitBook](https://www.gitbook.com)), [readable online](https://www.gitbook.com/book/samypesse/pmarca-notes), or downloadable as [ePub](https://www.gitbook.com/download/epub/book/samypesse/pmarca-notes), [Mobi](https://www.gitbook.com/download/mobi/book/samypesse/pmarca-notes) or [PDF](https://www.gitbook.com/download/pdf/book/samypesse/pmarca-notes)
 
 ### Who is Marc Andreessen?
 
