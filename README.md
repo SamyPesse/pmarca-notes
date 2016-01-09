@@ -1,5 +1,4 @@
-Notes from Marc Andreessen tweetstorms
-============
+# Notes from Marc Andreessen tweetstorms
 
 This book is a collection of essays from Marc Andreessen published on his personal Twitter account ([@pmarca](https://twitter.com/pmarca)).
 
@@ -16,8 +15,7 @@ An innovator and creator, he is one of the few people who has pioneered a softwa
 
 A frequent keynote speaker and guest at Silicon Valley conferences, Andreessen is one of only six inductees in the World Wide Web Hall of Fame announced at the first international conference on the World Wide Web in 1994.
 
-*Source: [Wikipedia](http://en.wikipedia.org/wiki/Marc_Andreessen)*
-
+> Source: [Wikipedia](http://en.wikipedia.org/wiki/Marc_Andreessen)
 
 ### What is a tweetstorm?
 
@@ -25,4 +23,4 @@ A Twitterstorm is a sudden spike in activity surrounding a certain topic on the 
 
 A Twitterstorm is often started by a single person who sends his or her followers a message often related to breaking news or a controversial debate. Using a certain and often original hashtag, the tweet quickly spreads as people are notified of the message and then reuse the hashtag with subsequent retweets and tweets.
 
-*Source: [Technopedia](http://www.techopedia.com/definition/29624/twitterstorm)*
+> Source: [Technopedia](http://www.techopedia.com/definition/29624/twitterstorm)
